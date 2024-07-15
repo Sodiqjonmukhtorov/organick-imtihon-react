@@ -1,0 +1,361 @@
+{
+  "products": [
+    {
+      "id": "0",
+      "category": "Vegetable",
+      "title": "Calabrese Broccoli",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo1.png"
+    },
+    {
+      "id": "1",
+      "category": "Fresh",
+      "title": "Fresh Banana Fruites",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo2.png"
+    },
+    {
+      "id": "2",
+      "category": "Millets",
+      "title": "White Nuts",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo3.png"
+    },
+    {
+      "id": "3",
+      "category": "Vegetable",
+      "title": "Vegan Red Tomato",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo4.png"
+    },
+    {
+      "id": "4",
+      "category": "Health",
+      "title": "Mung Bean",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo5.png"
+    },
+    {
+      "id": "5",
+      "category": "Nuts",
+      "title": "Brown Hazelnut",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo6.png"
+    },
+    {
+      "id": "6",
+      "category": "Fresh",
+      "title": "Eggs",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo7.png"
+    },
+    {
+      "id": "7",
+      "category": "Fresh",
+      "title": "Zelco Suji Elaichi Rusk",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo8.png"
+    }
+  ],
+  "offerProduct": [
+    {
+      "id": "0",
+      "category": "Vegetable",
+      "title": "Mung Bean",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo9.png"
+    },
+    {
+      "id": "1",
+      "category": "Vegetable",
+      "title": "Brown Hazelnut",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo10.png"
+    },
+    {
+      "id": "2",
+      "category": "Vegetable",
+      "title": "Onion",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo11.png"
+    },
+    {
+      "id": "3",
+      "category": "Vegetable",
+      "title": "Calabrese Broccoli",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo12.png"
+    }
+  ],
+  "CarouselData": [
+    {
+      "id": 0,
+      "img": "/backend/Product/images/avatarWm.jpg",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
+      "name": "Sara Taylor",
+      "job": "Consumer"
+    },
+    {
+      "id": 1,
+      "img": "/backend/Product/images/carausel1.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
+      "name": "Matt Round",
+      "job": "Consumer"
+    },
+    {
+      "id": 2,
+      "img": "/backend/Product/images/carausel2.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.",
+      "name": "Charle Georg",
+      "job": "Consumer"
+    }
+  ],
+  "ShopProducts": [
+    {
+      "id": "0",
+      "category": "Vegetable",
+      "title": "Calabrese Broccoli",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo1.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "1",
+      "category": "Fresh",
+      "title": "Fresh Banana Fruites",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo2.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "2",
+      "category": "Millets",
+      "title": "White Nuts",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo3.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "3",
+      "category": "Vegetable",
+      "title": "Vegan Red Tomato",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo4.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "4",
+      "category": "Health",
+      "title": "Mung Bean",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo5.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "5",
+      "category": "Nuts",
+      "title": "Brown Hazelnut",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo6.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "6",
+      "category": "Fresh",
+      "title": "Eggs",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo7.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "7",
+      "category": "Fresh",
+      "title": "Zelco Suji Elaichi Rusk",
+      "price": 13,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo8.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "8",
+      "category": "Health",
+      "title": "Mung Bean",
+      "price": 11,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo13.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "9",
+      "category": "Nuts",
+      "title": "White Hazelnut",
+      "price": 12,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo14.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "10",
+      "category": "Fresh",
+      "title": "Fresh Corn",
+      "price": 17,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo15.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    },
+    {
+      "id": "11",
+      "category": "Fresh",
+      "title": "Organic Almonds",
+      "price": 15,
+      "oldPrice": 20,
+      "imageUrl": "/backend/Product/images/Photo16.png",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
+    }
+  ],
+  "Tems": [
+    {
+      "id": 0,
+      "firstName": "Giovani Bacardo",
+      "profession": "Farmer",
+      "img": "/backend/Product/images/team1.jpg"
+    },
+    {
+      "id": 1,
+      "firstName": "Marianne Loreno",
+      "profession": "Designer",
+      "img": "/backend/Product/images/team2.jpg"
+    },
+    {
+      "id": 2,
+      "firstName": "Riga Pelore",
+      "profession": "Farmer",
+      "img": "/backend/Product/images/team3.jpg"
+    },
+    {
+      "id": 3,
+      "firstName": "Keira Knightley",
+      "profession": "Farmer",
+      "img": "/backend/Product/images/team4.jpg"
+    },
+    {
+      "id": 4,
+      "firstName": "Scott Lawrence",
+      "profession": "Designer",
+      "img": "/backend/Product/images/team5.jpg"
+    },
+    {
+      "id": 5,
+      "firstName": "Karen Allen",
+      "profession": "Farmer",
+      "img": "/backend/Product/images/team6.jpg"
+    }
+  ],
+  "Blogs": [
+    {
+      "id": "0",
+      "firstName": "By Rachi Card",
+      "title": "The Benefits of Vitamin D & How to Get It",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+      "img": "/backend/Product/images/photoblog.png"
+    },
+    {
+      "id": "1",
+      "firstName": "Marianne Loreno",
+      "title": "Our Favorite Summertime Tomato",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+      "profession": "Designer",
+      "img": "/backend/Product/images/photoblog1.png"
+    },
+    {
+      "id": "2",
+      "firstName": "Riga Pelore",
+      "title": "Benefits of Vitamin C & How to Get It",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+      "profession": "Farmer",
+      "img": "/backend/Product/images/photoblog2.png"
+    },
+    {
+      "id": "3",
+      "firstName": "Keira Knightley",
+      "title": "Research More Organic Foods",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+      "profession": "Farmer",
+      "img": "/backend/Product/images/photoblog3.png"
+    },
+    {
+      "id": "4",
+      "firstName": "Scott Lawrence",
+      "title": "Everyday Fresh Fruites",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+      "profession": "Designer",
+      "img": "/backend/Product/images/photoblog4.png"
+    },
+    {
+      "id": "5",
+      "firstName": "Karen Allen",
+      "title": "Don’t Use Plastic Product! it’s Kill Nature",
+      "text": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+      "profession": "Farmer",
+      "img": "/backend/Product/images/photoblog5.png"
+    }
+  ],
+  "Projects": [
+    {
+      "id": "0",
+      "title": "Green & Tasty Lemon",
+      "category": "Fruits",
+      "img": "/backend/Product/images/limon.png"
+    },
+    {
+      "id": "1",
+      "title": "Organic Carrot",
+      "category": "Farmer",
+      "img": "/backend/Product/images/carrot.png"
+    },
+    {
+      "id": "2",
+      "title": "Organic Betel Leaf",
+      "category": "Leaf",
+      "img": "/backend/Product/images/leaf.png"
+    },
+    {
+      "id": "3",
+      "title": "Natural Tommato",
+      "category": "Fruits",
+      "img": "/backend/Product/images/tomato.png"
+    },
+    {
+      "id": "4",
+      "title": "Black Raspberry",
+      "category": "Farmer",
+      "img": "/backend/Product/images/fruit.png"
+    },
+    {
+      "id": "5",
+      "title": "Honey Orange",
+      "category": "Farmer",
+      "img": "/backend/Product/images/limon2.png"
+    }
+  ],
+  "cardItems": []
+}
